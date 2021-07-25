@@ -3,7 +3,7 @@ Diplomado Python
 
 Descripción:
 
-Este es un Script que permite validar las atualizaciones que lanza Microsoft en su Catalogo (Microsoft Update Catalog) validando según el KB a consultar cual puede reemplazarlo si Microsoft ha lanzado mejoras en cuanto a configuración y remediación de vulnerabilidades en los equipos con Sistema Operativo Windows.
+Este es un Script que permite validar las atualizaciones que lanza Microsoft en su Catalogo (Microsoft Update Catalog) validando según el KB a consultar, cual puede reemplazarlo si Microsoft ha lanzado mejoras en cuanto a configuración y remediación de vulnerabilidades en los equipos con Sistema Operativo Windows.
 
 Indicaciones de Uso:
 
